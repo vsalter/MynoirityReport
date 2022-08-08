@@ -1,0 +1,188 @@
+@charset "utf-8";
+/* CSS Document */
+
+#header {
+	
+	background-color: black;
+	color: white;
+	width: 100%;
+	height: 150px;
+	
+}
+
+#menu {
+	
+	background-color: wheat;
+	width: 100%;
+	height: 100px;
+	margin: 25px 0;
+	display: inline;
+	float: left;
+	
+}
+
+#logo {
+	
+	height: 80px;
+	margin: 10px 0 10px 10px;
+	width: 15%;
+	float: left;
+	display: inline;
+	
+}
+
+#logo img {
+	
+	display: inline;
+	float: left;
+	height: 80px;
+	width: auto;
+	
+}
+
+#nav {
+	
+	color: black;
+	display: inline;
+	float: right;
+	height: 30px;
+	width: 80%;
+	margin: 60px 3% 10px 0;
+	text-align: right;
+	font-size: 30px;
+	font-family: 'Righteous', cursive;
+	
+}
+
+a {
+	
+	text-decoration: none;
+	color: inherit;
+}
+
+#nav a {
+	
+	color: black;
+	text-decoration: none;
+	
+}
+
+#topic {
+	
+	background-color: wheat;
+	font-family: 'Arvo', serif;
+	width: 100%;
+	height: auto;
+	margin: 10px 0 0;
+	font-size: 75px;
+	border-bottom: solid medium #000000;
+	
+}
+
+#articleTitle {
+	
+	font-family: 'Arvo', serif;
+	width: 70%;
+	height: auto;
+	margin: 50px 15%;
+	font-size: 40px;
+	
+}
+
+#articleTitle2 {
+	
+	font-family: 'Arvo', serif;
+	font-size: 20px;
+	color:#737373;
+	
+}
+
+#articlePhoto {
+	
+	width: 100%;
+	height: auto;
+	
+}
+
+#articlePhoto img {
+	
+	width: 100%;
+	height: auto;
+	
+}
+
+#topicPhoto {
+	
+	width: 60%;
+	height: 600px;
+	display: inline;
+	float: left;
+	background-image:url("../images/bookshelf.jpg");
+	background-size: cover;
+	
+}
+
+#mainTopic {
+	
+	font-family: 'Advent Pro', sans-serif;
+	width: 100%;
+	height: auto;
+	margin-top: 500px;
+	display: inline;
+	float: left;
+	font-size: 35px;
+	padding: 5px;
+	color: white;
+	font-weight: bolder;
+	
+}
+
+#tabs {
+	
+	width: 40%;
+	height: 600px;
+	display: inline;
+	float: left;
+	
+}
+
+.topics {
+	
+	font-family: 'Advent Pro', sans-serif;
+	width: 100%;
+	display: inline;
+	float: left;
+	font-size: 35px;
+	border-bottom: medium solid #000000;
+	padding: 5px;
+	
+}
+
+.topics2 {
+	
+	font-family: 'Poiret One', cursive;
+	font-size: 20px;
+	color: #232323;
+	
+}
+
+.text {
+	
+	font-family: 'Special Elite', cursive;
+	width: 60%;
+	height: auto;
+	margin: 25px 20%;
+	text-indent: 40px;
+	font-size: 30px;
+	
+}
+
+#tJennings {
+	
+	width: 40%;
+	height: auto;
+	display: inline;
+	float: left;
+	padding-right: 10px;
+	
+}
